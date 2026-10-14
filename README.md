@@ -5,6 +5,7 @@
 <h3 align="center">Aspiring AI Automation Engineer | Computer vision | Computer Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif">
 
+
 - 🌱 I’m currently learning **Python,Data structures & Algorithms,Computer Vision,Generative AI,n8n Workflow Automation**
 
 - 👯 I’m looking to collaborate on [Python Projects,AI Automation & Computer Vision](https://github.com/Hari-0026)
