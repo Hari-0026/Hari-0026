@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://theninehertz.com/wp-content/uploads/2020/08/Python-Allows-Multi-tasking.gif" alt="Python MasterHead Banner" width="100%" />
 </p>
-<h1 align="center">Hi 👋, I'm Hariharaan</h1>
+<h1 align="center">Hi 👋, I'm Hariharan</h1>
 <h3 align="center">Aspiring AI Automation Engineer | Computer vision | Computer Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif">
 
